@@ -1,4 +1,4 @@
-public class LeastPos_Recursion 
+public class Rec_LeastPos 
 {
     public static void main(String[] args) 
     {
